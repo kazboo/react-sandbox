@@ -22,6 +22,9 @@ import './index.css';
  * Reactのstate, props, componentの使い方まとめ
  * https://qiita.com/sekikawa_a/items/8ab70f457ef73871419f
  * 
+ * JSX(JavaScript eXtension)
+ * https://qiita.com/oukayuka/items/195315df70b1f8de3a18
+ * 
  */
 
 // class Square extends React.Component { ... }
